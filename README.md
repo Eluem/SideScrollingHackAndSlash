@@ -5,7 +5,7 @@ Built in XNA as a college project between 2010 and 2011
 
 ## Requirements (Play executable)
 
-- XNA 3.1 Redistributable (Can be found in the root directory or here: https://www.microsoft.com/en-us/download/details.aspx?id=15163)
+- XNA 3.1 Redistributable (Can be found here: https://www.microsoft.com/en-us/download/details.aspx?id=15163)
 - 2x Xbox Controllers (Or some way to mimic it. Can mess around with one controller.)
 
 ## Requirements (Source code)
