@@ -1,3 +1,4 @@
 /SideScrollingHackandSlash/bin/*
-*.xwb
 /SideScrollingHackandSlash/Content/ExcludedContent/*
+/.vs
+*.xwb
