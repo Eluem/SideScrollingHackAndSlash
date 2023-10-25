@@ -1,21 +1,26 @@
 # SideScrollingHackAndSlash
+
 2d side scrolling sword dueling game with thumbstick gesture based attack inputs
 Built in XNA as a college project between 2010 and 2011
-<br>
+
 ## Requirements (Play executable)
+
 - XNA 3.1 Redistributable (Can be found in the root directory or here: https://www.microsoft.com/en-us/download/details.aspx?id=15163)
 - 2x Xbox Controllers (Or some way to mimic it. Can mess around with one controller.)
-<br>
+
 ## Requirements (Source code)
+
 - Visual Studio 2010 with XNA 3.1
 - Windows 7
-<br>
+
 ## Setup
+
 - Make sure you have XNA 3.1 installed (you may need to restart if you just installed it)
 - Download the project and navigate to ..\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release
 - Run SideScrollingHackandSlash.exe
-<br>
+
 ## Controls
+
 - RStick: Sword movement
   - Sword has a grid of 9 possible positions, moving the sword through these positions triggers gestures
   - There are 3 gestures:
@@ -36,6 +41,7 @@ Built in XNA as a college project between 2010 and 2011
 - Y: Lightning bolt
 
 ## Tips
+
 - Fireball can ignite bombs
 - Lightning bolt can trigger grenades
 - Jumping into ledges causes you to hang from them, you can tap down to drop off or jump from that state
