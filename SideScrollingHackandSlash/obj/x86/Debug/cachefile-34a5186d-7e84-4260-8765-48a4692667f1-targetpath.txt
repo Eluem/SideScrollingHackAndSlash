@@ -1,0 +1,42 @@
+Content\skullball.xnb
+Content\threerings.xnb
+Content\platform_flat_long.xnb
+Content\sal sword ani edit.xnb
+Content\sal run.xnb
+Content\small_platform.xnb
+Content\CopperCoin.xnb
+Content\block_green.xnb
+Content\block_red.xnb
+Content\block_white.xnb
+Content\wall.xnb
+Content\foreward slash left arm.xnb
+Content\foreward slash right arm.xnb
+Content\foreward slash stance.xnb
+Content\torso.xnb
+Content\walking left arm.xnb
+Content\walking prototype.xnb
+Content\walking right arm.xnb
+Content\Bomb.xnb
+Content\BombFire.xnb
+Content\NukeExplosion.xnb
+Content\PlayerGib.xnb
+Content\MyEye.xnb
+Content\DABOMB.xnb
+Content\walkinglegsfinal.xnb
+Content\swordArms.xnb
+Content\Health.xnb
+Content\Mana.xnb
+Content\Stamina.xnb
+Content\death.xnb
+Content\healthPotion.xnb
+Content\manaPotion.xnb
+Content\Grenade.xnb
+Content\LightningBolt.xnb
+Content\ForcePush.xnb
+Content\BackGround.xnb
+Content\platform_flat_long_red.xnb
+Content\platform_flat_long_blue.xnb
+Content\Arial.xnb
+Content\SideScrollerSounds.xgs
+Content\Wave Bank001.xwb
+Content\Sound Bank001.xsb

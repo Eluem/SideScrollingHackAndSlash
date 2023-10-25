@@ -1,0 +1,152 @@
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\skullball.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\SideScrollingHackandSlash.exe
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\SideScrollingHackandSlash.pdb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\obj\x86\Debug\SideScrollingHackandSlash.exe
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\obj\x86\Debug\SideScrollingHackandSlash.pdb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\threerings.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\platform_flat_long.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\sal sword ani edit.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\sal run.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\small_platform.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\CopperCoin.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\block_green.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\block_red.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\block_white.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\wall.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\SideScrollerSounds.xgs
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\Wave Bank001.xwb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\Sound Bank001.xsb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\Arial.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\foreward slash left arm.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\foreward slash right arm.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\foreward slash stance.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\torso.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\walking left arm.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\walking prototype.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\walking right arm.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\Bomb.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\BombFire.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\NukeExplosion.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\PlayerGib.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\MyEye.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\DABOMB.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\walkinglegsfinal.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\swordArms.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\Health.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\Mana.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\Stamina.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\death.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\healthPotion.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\manaPotion.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\Grenade.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\LightningBolt.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\ForcePush.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\BackGround.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\platform_flat_long_red.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Debug\Content\platform_flat_long_blue.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\skullball.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\threerings.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\platform_flat_long.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\sal sword ani edit.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\sal run.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\small_platform.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\CopperCoin.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\block_green.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\block_red.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\block_white.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\wall.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\foreward slash left arm.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\foreward slash right arm.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\foreward slash stance.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\torso.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\walking left arm.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\walking prototype.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\walking right arm.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\Bomb.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\BombFire.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\NukeExplosion.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\PlayerGib.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\MyEye.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\DABOMB.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\walkinglegsfinal.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\swordArms.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\Health.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\Mana.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\Stamina.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\death.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\healthPotion.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\manaPotion.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\Grenade.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\LightningBolt.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\ForcePush.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\BackGround.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\platform_flat_long_red.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\platform_flat_long_blue.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\Arial.xnb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\SideScrollerSounds.xgs
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\Wave Bank001.xwb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\Sound Bank001.xsb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\SideScrollingHackandSlash.exe
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\SideScrollingHackandSlash.pdb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\obj\x86\Debug\SideScrollingHackandSlash.exe
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\obj\x86\Debug\SideScrollingHackandSlash.pdb
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\SideScrollingHackandSlash.exe.manifest
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\SideScrollingHackandSlash.application
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\obj\x86\Debug\SideScrollingHackandSlash.exe.manifest
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\obj\x86\Debug\SideScrollingHackandSlash.application
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\skullball.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\threerings.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\platform_flat_long.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\sal sword ani edit.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\sal run.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\small_platform.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\CopperCoin.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\block_green.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\block_red.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\block_white.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\wall.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\foreward slash left arm.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\foreward slash right arm.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\foreward slash stance.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\torso.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\walking left arm.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\walking prototype.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\walking right arm.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\Bomb.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\BombFire.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\NukeExplosion.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\PlayerGib.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\MyEye.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\DABOMB.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\walkinglegsfinal.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\swordArms.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\Health.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\Mana.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\Stamina.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\death.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\healthPotion.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\manaPotion.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\Grenade.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\LightningBolt.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\ForcePush.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\BackGround.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\platform_flat_long_red.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\platform_flat_long_blue.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\Arial.xnb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\SideScrollerSounds.xgs
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\Wave Bank001.xwb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\Content\Sound Bank001.xsb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\SideScrollingHackandSlash.exe.manifest
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\SideScrollingHackandSlash.application
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\SideScrollingHackandSlash.exe
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\bin\x86\Debug\SideScrollingHackandSlash.pdb
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\obj\x86\Debug\SideScrollingHackandSlash.exe.manifest
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\obj\x86\Debug\SideScrollingHackandSlash.application
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\obj\x86\Debug\SideScrollingHackandSlash.exe
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\obj\x86\Debug\SideScrollingHackandSlash.pdb

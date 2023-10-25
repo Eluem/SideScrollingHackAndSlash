@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<audacityproject projname="Gore Impact Sound Tests_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="5.3057596372" zoom="86.1328125000" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="Audio Track" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="720896" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00000.au' len='262144' min='-0.410260' max='0.000031' rms='0.010138'/>
+			</waveblock>
+			<waveblock start="262144" >
+				<simpleblockfile filename='b00001.au' len='262144' min='-0.794366' max='0.779351' rms='0.022031'/>
+			</waveblock>
+			<waveblock start="524288" >
+				<simpleblockfile filename='b00002.au' len='196608' min='-0.233955' max='0.209387' rms='0.005892'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

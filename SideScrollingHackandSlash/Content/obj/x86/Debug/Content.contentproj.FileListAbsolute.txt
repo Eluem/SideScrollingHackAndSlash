@@ -1,0 +1,6 @@
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\Content\obj\x86\Debug\SideScrollerSounds.xml
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\Content\obj\x86\Debug\SideScrollerSounds.xml
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\D\Programming Stuff\Visual Studios Projects\SideScrollingHackandSlash Current Working Version\SideScrollingHackandSlash\Content\obj\x86\Debug\SideScrollerSounds.xml

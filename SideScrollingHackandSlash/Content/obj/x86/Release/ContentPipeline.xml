@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>skullball.png</Source>
+      <Name>skullball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\skullball.xnb</Output>
+      <Time>2010-03-03T22:29:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>threerings.png</Source>
+      <Name>threerings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\threerings.xnb</Output>
+      <Time>2010-03-04T01:09:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>platform_flat_long.bmp</Source>
+      <Name>platform_flat_long</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\platform_flat_long.xnb</Output>
+      <Time>2010-03-05T18:39:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sal sword ani edit.PNG</Source>
+      <Name>sal sword ani edit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\sal sword ani edit.xnb</Output>
+      <Time>2010-03-05T20:24:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sal run.png</Source>
+      <Name>sal run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\sal run.xnb</Output>
+      <Time>2010-04-04T08:43:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>small_platform.bmp</Source>
+      <Name>small_platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\small_platform.xnb</Output>
+      <Time>2010-03-09T08:33:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>CopperCoin.PNG</Source>
+      <Name>CopperCoin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\CopperCoin.xnb</Output>
+      <Time>2010-03-11T22:39:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>block_green.bmp</Source>
+      <Name>block_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\block_green.xnb</Output>
+      <Time>2010-03-17T00:27:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>block_red.bmp</Source>
+      <Name>block_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\block_red.xnb</Output>
+      <Time>2008-02-18T00:29:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>block_white.bmp</Source>
+      <Name>block_white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\block_white.xnb</Output>
+      <Time>2008-02-18T08:55:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>wall.bmp</Source>
+      <Name>wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\wall.xnb</Output>
+      <Time>2008-02-16T14:54:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>foreward slash left arm.png</Source>
+      <Name>foreward slash left arm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\foreward slash left arm.xnb</Output>
+      <Time>2010-04-21T08:14:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>foreward slash right arm.png</Source>
+      <Name>foreward slash right arm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\foreward slash right arm.xnb</Output>
+      <Time>2010-04-21T08:14:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>foreward slash stance.png</Source>
+      <Name>foreward slash stance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\foreward slash stance.xnb</Output>
+      <Time>2010-04-20T21:13:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>torso.png</Source>
+      <Name>torso</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\torso.xnb</Output>
+      <Time>2010-04-30T15:44:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>walking left arm.png</Source>
+      <Name>walking left arm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\walking left arm.xnb</Output>
+      <Time>2010-04-20T21:13:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>walking prototype.png</Source>
+      <Name>walking prototype</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\walking prototype.xnb</Output>
+      <Time>2010-04-21T08:39:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>walking right arm.png</Source>
+      <Name>walking right arm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\walking right arm.xnb</Output>
+      <Time>2010-04-20T21:13:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Bomb.PNG</Source>
+      <Name>Bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\Bomb.xnb</Output>
+      <Time>2010-04-22T17:52:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BombFire.PNG</Source>
+      <Name>BombFire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\BombFire.xnb</Output>
+      <Time>2010-04-22T17:41:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>NukeExplosion.png</Source>
+      <Name>NukeExplosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\NukeExplosion.xnb</Output>
+      <Time>2010-04-22T18:14:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerGib.png</Source>
+      <Name>PlayerGib</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\PlayerGib.xnb</Output>
+      <Time>2010-04-22T19:24:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MyEye.jpg</Source>
+      <Name>MyEye</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\MyEye.xnb</Output>
+      <Time>2010-03-07T18:29:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DABOMB.png</Source>
+      <Name>DABOMB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\DABOMB.xnb</Output>
+      <Time>2010-04-30T11:00:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>walkinglegsfinal.png</Source>
+      <Name>walkinglegsfinal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\walkinglegsfinal.xnb</Output>
+      <Time>2010-04-30T15:44:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>swordArms.png</Source>
+      <Name>swordArms</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\swordArms.xnb</Output>
+      <Time>2010-05-01T19:53:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Health.png</Source>
+      <Name>Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\Health.xnb</Output>
+      <Time>2010-04-30T21:16:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mana.png</Source>
+      <Name>Mana</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\Mana.xnb</Output>
+      <Time>2010-04-30T21:17:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Stamina.png</Source>
+      <Name>Stamina</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\Stamina.xnb</Output>
+      <Time>2010-04-30T21:17:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>death.png</Source>
+      <Name>death</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\death.xnb</Output>
+      <Time>2010-05-01T20:58:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>healthPotion.PNG</Source>
+      <Name>healthPotion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\healthPotion.xnb</Output>
+      <Time>2010-05-02T11:30:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>manaPotion.PNG</Source>
+      <Name>manaPotion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\manaPotion.xnb</Output>
+      <Time>2010-05-02T11:31:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Grenade.png</Source>
+      <Name>Grenade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\Grenade.xnb</Output>
+      <Time>2010-05-02T13:38:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LightningBolt.PNG</Source>
+      <Name>LightningBolt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\LightningBolt.xnb</Output>
+      <Time>2010-05-03T00:09:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ForcePush.PNG</Source>
+      <Name>ForcePush</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\ForcePush.xnb</Output>
+      <Time>2010-05-03T01:01:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BackGround.png</Source>
+      <Name>BackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\BackGround.xnb</Output>
+      <Time>2010-05-03T05:27:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>platform_flat_long_red.bmp</Source>
+      <Name>platform_flat_long_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\platform_flat_long_red.xnb</Output>
+      <Time>2010-05-06T09:05:21.9375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>platform_flat_long_blue.bmp</Source>
+      <Name>platform_flat_long_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\platform_flat_long_blue.xnb</Output>
+      <Time>2010-05-07T00:01:37.625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\Arial.xnb</Output>
+      <Time>2010-04-12T11:34:08-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-06-26T00:47:03.296875-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
