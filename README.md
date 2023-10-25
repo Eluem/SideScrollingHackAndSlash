@@ -16,7 +16,7 @@ Built in XNA as a college project between 2010 and 2011
 ## Setup
 
 - Make sure you have XNA 3.1 installed (you may need to restart if you just installed it)
-- Download the project and navigate to ..\SideScrollingHackandSlash\SideScrollingHackandSlash\bin\x86\Release
+- Download the release zip and unzip it
 - Run SideScrollingHackandSlash.exe
 
 ## Controls
