@@ -1,0 +1,2 @@
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eluem\My Documents\Visual Studio 2008\Projects\SideScrollingHackandSlash\SideScrollingHackandSlash\Content\obj\x86\Release\SideScrollerSounds.xml

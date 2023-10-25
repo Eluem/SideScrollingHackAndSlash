@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<audacityproject projname="Explosion Tests_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="85.5423129252" zoom="86.1328125000" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="Audio Track" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="4257792" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00000.au' len='262144' min='-1.000000' max='0.000031' rms='0.119130'/>
+			</waveblock>
+			<waveblock start="262144" >
+				<simpleblockfile filename='b00001.au' len='262144' min='-1.000000' max='1.000000' rms='0.148411'/>
+			</waveblock>
+			<waveblock start="524288" >
+				<simpleblockfile filename='b00002.au' len='262144' min='-1.000000' max='1.000000' rms='0.171878'/>
+			</waveblock>
+			<waveblock start="786432" >
+				<simpleblockfile filename='b00003.au' len='262144' min='-1.000000' max='1.000000' rms='0.118708'/>
+			</waveblock>
+			<waveblock start="1048576" >
+				<simpleblockfile filename='b00004.au' len='262144' min='-1.000000' max='0.394757' rms='0.080101'/>
+			</waveblock>
+			<waveblock start="1310720" >
+				<simpleblockfile filename='b00005.au' len='262144' min='-1.000000' max='0.051057' rms='0.107291'/>
+			</waveblock>
+			<waveblock start="1572864" >
+				<simpleblockfile filename='b00006.au' len='262144' min='-1.000000' max='0.104740' rms='0.131664'/>
+			</waveblock>
+			<waveblock start="1835008" >
+				<simpleblockfile filename='b00007.au' len='262144' min='-1.000000' max='1.000000' rms='0.216627'/>
+			</waveblock>
+			<waveblock start="2097152" >
+				<simpleblockfile filename='b00008.au' len='262144' min='-1.000000' max='0.815271' rms='0.181624'/>
+			</waveblock>
+			<waveblock start="2359296" >
+				<simpleblockfile filename='b00009.au' len='262144' min='-0.352641' max='0.298105' rms='0.038383'/>
+			</waveblock>
+			<waveblock start="2621440" >
+				<simpleblockfile filename='b00010.au' len='262144' min='-1.000000' max='1.000000' rms='0.292564'/>
+			</waveblock>
+			<waveblock start="2883584" >
+				<simpleblockfile filename='b00011.au' len='262144' min='-0.464125' max='0.428785' rms='0.060290'/>
+			</waveblock>
+			<waveblock start="3145728" >
+				<simpleblockfile filename='b00012.au' len='262144' min='-1.000000' max='0.003632' rms='0.238880'/>
+			</waveblock>
+			<waveblock start="3407872" >
+				<simpleblockfile filename='b00013.au' len='262144' min='-0.650655' max='0.641377' rms='0.055307'/>
+			</waveblock>
+			<waveblock start="3670016" >
+				<simpleblockfile filename='b00014.au' len='262144' min='-1.000000' max='1.000000' rms='0.238677'/>
+			</waveblock>
+			<waveblock start="3932160" >
+				<simpleblockfile filename='b00015.au' len='262144' min='-1.000000' max='1.000000' rms='0.200713'/>
+			</waveblock>
+			<waveblock start="4194304" >
+				<simpleblockfile filename='b00016.au' len='63488' min='-0.004944' max='0.005585' rms='0.001083'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

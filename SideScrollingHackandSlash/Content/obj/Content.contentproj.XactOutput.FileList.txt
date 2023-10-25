@@ -1,0 +1,3 @@
+Content\SideScrollerSounds.xgs
+Content\Wave Bank001.xwb
+Content\Sound Bank001.xsb
