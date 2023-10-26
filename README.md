@@ -25,8 +25,8 @@ Built in XNA as a college project between 2010 and 2011
   - Sword has a grid of 9 possible positions, moving the sword through these positions triggers gestures
   - There are 3 gestures:
     - Thrust: (Back, Center), (Center, Center), (Forward, Center)
-    - Overhead: (Center, Top), (Forward, Top), (Forward, Center)
-    - Underhead: (Center, Bottom), (Forward, Bottom), (Forward, Center)
+    - Overhead: (Back, Top), (Center, Top), (Forward, Top), (Forward, Center)
+    - Underhead: (Back, Bottom), (Center, Bottom), (Forward, Bottom)
     - You can also hold down to point your sword down and deal damage to things you land on
 - LStick: Movement
 - Double Tap LStick: Magic Dash
@@ -37,7 +37,7 @@ Built in XNA as a college project between 2010 and 2011
 - LT: Nothing
 - A: Use held item
 - B: Spawn Fireball in hands (RB to throw, or run into enemy with it)
-- X (hold): Force push
+- X (hold, release): Force push
 - Y: Lightning bolt
 
 ## Tips
@@ -46,5 +46,3 @@ Built in XNA as a college project between 2010 and 2011
 - Lightning bolt can trigger grenades
 - Jumping into ledges causes you to hang from them, you can tap down to drop off or jump from that state
 - You can catch fireballs if you grab them with the right timing
-- Dashing into the thrust deals more damage (it scales based on speed)
-- The falling stab also scales on speed
