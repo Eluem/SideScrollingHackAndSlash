@@ -2,6 +2,8 @@
 
 2d side scrolling sword dueling game with thumbstick gesture based attack inputs
 Built in XNA as a college project between 2010 and 2011
+The project was made with one programmer and one artist
+Features a very simple custom 2d physics engine
 
 ## Requirements (Play executable)
 
