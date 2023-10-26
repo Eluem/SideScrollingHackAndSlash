@@ -34,7 +34,7 @@ Built in XNA as a college project between 2010 and 2011
 - RB: Pick up/Throw (RStick to adjust throw direction)
 - LB: Jump
 - RT: Block (RStick to adjust block height [High, Mid, Low])
-- LT: ?
+- LT: Nothing
 - A: Use held item
 - B: Spawn Fireball in hands (RB to throw, or run into enemy with it)
 - X (hold): Force push
